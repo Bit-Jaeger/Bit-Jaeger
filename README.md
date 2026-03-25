@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bit-Jaeger
 - 👀 I’m interested in Coding, Sports, Anime, Gaming
-- 🌱 I’m currently learning Japanese, Coding (Python3), Studying to become a Teacher
+- 🌱 I’m currently learning Japanese, Coding (C, Python, web)
 - 📫 How to reach me: Github, Email: Johannes.riedel2000@gmail.com
 
 <!---
