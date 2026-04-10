@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Bit-Jaeger
-- 👀 I’m interested in Coding, Sports, Anime, Gaming
-- 🌱 I’m currently learning Japanese, Coding (C, Python, web)
+- 👀 I’m interested in Coding, Sports, Anime and much more
+- 🌱 I’m currently learning python and JavaScript
 - 📫 How to reach me: Github, Email: Johannes.riedel2000@gmail.com
+- Sometimes i do <a href="https://bit-jaeger.github.io/blog/">blog</a>
 
 <!---
 Bit-Jaeger/Bit-Jaeger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
