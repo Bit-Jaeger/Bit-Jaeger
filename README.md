@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bit-Jaeger / Johannes
-- 👀 I’m interested in Tech, Coding, Sports and much more
+- 👀 I’m interested in Tech, Coding, Bodybuilding, Football and much more...
 - 🌱 I’m currently pursuing my bachelors degree in Applied Computer Science.
 - 📫 How to reach me: Github, Email: Johannes.riedel2000@gmail.com
 - Sometimes i do <a href="https://bit-jaeger.github.io/blog/">blog</a>
